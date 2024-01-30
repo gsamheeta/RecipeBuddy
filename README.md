@@ -1,0 +1,3 @@
+In this project, a Recipe Blog takes shape through the integration of key technologies. Node.js serves as the backbone, providing a robust server-side environment. Managing the web application's structure and functionality is Express, a framework tailored for Node.js. Recipe data is stored and retrieved using MongoDB, a flexible NoSQL database, and Mongoose, a tool that ensures seamless data management.
+
+For creating dynamic and engaging views, we turn to EJS (Embedded JavaScript), a templating engine adept at embedding dynamic JavaScript within HTML. This stack of technologies collaborates to construct a feature-rich Recipe Blog, showcasing the collective strength and versatility of Node.js, Express, MongoDB, Mongoose, and EJS
